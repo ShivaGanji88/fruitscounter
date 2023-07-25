@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffd569;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.second-container {
+  margin: 60px;
+  padding: 20px;
+  justify-content: center;
+  background-color: white;
+  border-radius: 20px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.third-container {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.third-sub-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 80px;
+}
+.image-size {
+  height: 300px;
+  width: 300px;
+}
+.button-type {
+  background-color: #007bff;
+  font-family: Roboto;
+  color: white;
+  border: 0px;
+  border-radius: 10px;
+  font-size: 14px;
+  height: 30px;
+  width: 100px;
+  font-weight: 400;
+  margin-top: 50px;
+}
+.span-el {
+  color: #ffd569;
+}
